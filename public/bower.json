@@ -1,0 +1,19 @@
+{
+  "name": "assets-app",
+  "version": "0.0.0",
+  "homepage": "https://github.com/lucasmm/react-es6-starter",
+  "authors": [
+    "Lucas Mendes <lucas.men195@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.6"
+  }
+}
